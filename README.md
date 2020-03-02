@@ -1,4 +1,5 @@
 # Multi Languages Code Tests
+The objective of this project is above all to give a helping hand to those who are stuck on certain challenges.
 You can find here many Code Test Using diffrent languages: C, Java, JavaScript, Php...
 
 ## Contributing
